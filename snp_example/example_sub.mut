@@ -1,0 +1,2 @@
+snp;pos_of_snp;dist;rs-id;tree_index;branch_indices;is_not_mapping;is_flipped;age_begin;age_end;ancestral_allele/alternative_allele;
+7;3230;248;SNP8;0;795;0;0;5929.07;12907.8;A/T;

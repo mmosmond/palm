@@ -1,0 +1,10 @@
+1. first run sample-poplabels.sh to make .sample and .poplabels files
+
+2. then run relate.sh to infer the tree sequence
+
+3. then run popsize.sh to infer coalescence rates (population size) over time
+
+4. then run coalescence-times.sh to sample branch lengths at a particular SNP
+	- using relate 1.0 doesn't allow binary output? seems to be ignoring format option
+	- using relate 1.0 looks like the different times are recorded in the newick trees file
+	- relate 1.1.2 does not work on this mac (10.13) and can't download 1.1.0 or 1.1.1 anymore
